@@ -2,7 +2,7 @@
 
 An analysis over the brazilian air network and it's regions.
 
-This analysis was made as an activity for the subject IMD1155 - Análise de Redes in the Computer Engeneering bachelor degree in UFRN.
+This analysis was made as an activity for the subject *IMD1155 - Análise de Redes* in the Computer Engeneering bachelor degree in UFRN.
 
 The members are:
 
